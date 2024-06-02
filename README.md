@@ -1,6 +1,6 @@
 # DEZZLER
 
-|> Design. Innovate. Impress. Crafting Digital Masterpieces.
+> Design. Innovate. Impress. Crafting Digital Masterpieces.
 
 This is the official repository for the DEZZLER website. Our website is
 currently under development. We look forward to sharing it with you soon.
